@@ -1,0 +1,101 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,y_test,y_pred
+ID0000,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,32.7606139735652,13.62545210855534,Yes,1,1
+ID0001,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,61.388742297966786,1879.2066641452247,No,0,0
+ID0002,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,58.32166165054381,36.147927615810104,Yes,1,0
+ID0003,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),46.07498898622367,1900.286362805682,No,0,0
+ID0004,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.66417054947713,216.6198407132244,Yes,1,1
+ID0005,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,26.732613025075203,0.0,Yes,1,0
+ID0006,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,49.40923355226259,1920.3820422755573,No,0,0
+ID0007,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,59.3482348789241,169.0035398490055,Yes,1,0
+ID0008,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),41.41133939364672,1852.0644134749436,No,0,0
+ID0009,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.6480834565685,194.02007162883194,Yes,1,1
+ID0010,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.748581723503506,38.59165059957357,Yes,1,1
+ID0011,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,52.458960302721614,1828.657255382038,No,0,0
+ID0012,Male,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,58.023977096152144,160.61736961604328,Yes,1,0
+ID0013,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),43.78280692164485,1907.00528307571,No,0,0
+ID0014,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,65.51085061742259,188.3750532440023,Yes,1,0
+ID0015,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.470981274859074,0.0,Yes,1,1
+ID0016,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,61.81481766877894,1851.9410287668036,No,0,0
+ID0017,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,57.82797731947971,51.628597343973496,Yes,1,0
+ID0018,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),49.77717126441736,1879.2488679965397,No,0,0
+ID0019,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72.3909062599666,215.0694761201951,Yes,1,1
+ID0020,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,46.71148126813337,51.07431220282254,Yes,1,0
+ID0021,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,52.34804597466312,1936.5267792481004,No,0,0
+ID0022,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51.856808049924,64.76794550103128,Yes,1,0
+ID0023,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),41.995679562626265,1848.0430926214156,No,0,0
+ID0024,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,63.60624770704299,83.15644716418518,Yes,1,1
+ID0025,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.062458086697106,0.0,Yes,1,1
+ID0026,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,61.467662453129215,1933.4336774095448,No,0,0
+ID0027,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,53.94500165531075,96.17027459030953,Yes,1,0
+ID0028,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),39.62791773163247,1901.2190985343318,No,0,0
+ID0029,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,63.224730645928325,178.5480001845998,Yes,1,1
+ID0030,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,25.9037083565104,166.57110795308708,Yes,1,1
+ID0031,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,60.668556418856134,1894.1882715075974,No,0,0
+ID0032,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,52.78919289144187,37.82973664092256,Yes,1,0
+ID0033,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),40.16565602980138,1839.0235171952595,No,0,0
+ID0034,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.20724165762402,103.49921869669367,Yes,1,1
+ID0035,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.64093326466014,78.70900004065366,Yes,1,1
+ID0036,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,58.2355843502814,1891.599003223501,No,0,0
+ID0037,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,55.42256447931586,101.2864091451092,Yes,1,0
+ID0038,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),49.15931066774888,1834.543380555917,No,0,0
+ID0039,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.57776646977416,188.66704089738693,Yes,1,1
+ID0040,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,28.303557267777112,7.226888382766543,Yes,1,1
+ID0041,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,60.31562751386988,1928.3524897451805,No,0,0
+ID0042,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,52.56684908653723,160.42855841731586,Yes,1,0
+ID0043,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),40.46087137933619,1823.642914369731,No,0,0
+ID0044,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77.06866810069778,105.34766903942611,Yes,1,1
+ID0045,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,28.3902366458719,4.201734118218912,Yes,1,1
+ID0046,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,43.674119762182656,1925.0054620181977,No,0,0
+ID0047,Male,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,55.577589719443836,112.77394357755486,Yes,1,0
+ID0048,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),40.32241774209853,1872.2537469300503,No,0,0
+ID0049,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.25431571765029,239.79687361516142,Yes,1,0
+ID0050,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,32.11468163266755,41.39768614725664,Yes,1,1
+ID0051,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.11969545824468,1849.0531554304819,No,0,0
+ID0052,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,54.924694150473776,161.0211754431188,Yes,1,0
+ID0053,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),32.18842533402132,1843.3180429739818,No,0,0
+ID0054,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,65.9847159576637,195.27235788302266,Yes,1,1
+ID0055,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,36.86979369329647,83.15992720488691,Yes,1,1
+ID0056,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.8572459774418,1841.549595178661,No,0,0
+ID0057,Male,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,45.482476890048886,177.25023020859715,Yes,1,0
+ID0058,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),36.93734082782171,1886.006097997828,No,0,0
+ID0059,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,65.73706910298405,121.45478137577356,Yes,1,1
+ID0060,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30.361738412748334,45.07245599354263,Yes,1,1
+ID0061,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,54.78695359725994,1902.3603745490054,No,0,0
+ID0062,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,50.55408848781761,109.34659072329185,Yes,1,0
+ID0063,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),42.31968652215701,1884.3456994406197,No,0,0
+ID0064,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.08877049716764,223.51781641667637,Yes,1,1
+ID0065,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,28.55485677630555,30.21531863703161,Yes,1,1
+ID0066,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,54.076453961933005,1956.0440663986042,No,0,0
+ID0067,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51.742508898300585,157.56013052520558,Yes,1,0
+ID0068,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),43.99910482093322,1852.3648079088202,No,0,0
+ID0069,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.66309925027714,160.45904610261607,Yes,1,0
+ID0070,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,33.686484193532024,0.0,Yes,1,1
+ID0071,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,51.20103711252821,1814.4615803396414,No,0,0
+ID0072,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,49.97331947021528,116.40113990546693,Yes,1,0
+ID0073,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),46.16570427944624,1797.9535541085315,No,0,1
+ID0074,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,66.69086078325154,149.66819289801904,Yes,1,1
+ID0075,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,36.770078594663396,3.116862907496806,Yes,1,1
+ID0076,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,63.97602652939094,1800.075174750975,No,0,0
+ID0077,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,60.81162876745952,126.0152270968317,Yes,1,0
+ID0078,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),37.89679590735115,1820.0234097305054,No,0,1
+ID0079,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.08447474292286,155.65993562704074,Yes,1,1
+ID0080,Female,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,27.382837588983367,0.0,Yes,1,1
+ID0081,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,61.56581304170977,1872.7591376302632,No,0,0
+ID0082,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,62.38302476839231,186.16900705664398,Yes,1,0
+ID0083,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),46.667947078176894,1847.177550003554,No,0,0
+ID0084,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.74572172870069,179.12881725313338,Yes,1,0
+ID0085,Female,0,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,28.022303515837287,0.0,Yes,1,1
+ID0086,Male,0,No,No,35,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,60.195433663145536,2008.951797869623,No,0,1
+ID0087,Male,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,47.735632316623466,200.32068791602666,Yes,1,0
+ID0088,Male,0,No,No,45,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),44.981680161910326,1908.9217745475853,No,0,0
+ID0089,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,66.12654534369362,193.08829888024374,Yes,1,0
+ID0090,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,32.952741079808675,30.607163912993215,Yes,1,1
+ID0091,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.14531311568469,1911.6037008433366,No,0,0
+ID0092,Male,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51.90867800511693,160.55098719974762,Yes,1,0
+ID0093,Male,0,No,No,46,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),37.872438130855755,1809.3215126262146,No,0,0
+ID0094,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.91627487115903,129.42506278904088,Yes,1,1
+ID0095,Female,0,Yes,No,0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,32.63060899266983,0.0,Yes,1,1
+ID0096,Male,0,No,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,62.16930305459329,1850.9090461121623,No,0,0
+ID0097,Male,0,No,No,3,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,56.48224080667348,191.21508653040772,Yes,1,0
+ID0098,Male,0,No,No,44,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),49.119432622085526,1824.0376454424816,No,0,0
+ID0099,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,83.39581358134666,135.75765467447084,Yes,1,1
